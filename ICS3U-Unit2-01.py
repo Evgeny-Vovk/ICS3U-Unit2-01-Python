@@ -9,7 +9,7 @@ import math
 
 def main():
 
-    print("\nThe radius of a circle is 15mm.\n")
+    print("\nThe radius of a circle is 15mm.")
     print("The area of the circle is {} mm².".format(math.pi * 15**2))
     print("The perimeter of the square is {} mm.".format(2 * math.pi * 15))
 
