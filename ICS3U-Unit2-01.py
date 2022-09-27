@@ -2,7 +2,7 @@
 #
 # Created by: Evgeny Vovk
 # Created on: September 2022
-# ICS3U-Unit1-03.py File, learning simple math and storyboard in python
+# ICS3U-Unit2-01.py File, learning simple math and storyboard in python
 
 import math
 
